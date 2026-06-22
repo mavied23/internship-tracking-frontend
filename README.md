@@ -1,1 +1,1 @@
-# internship-tracking-frontend
+Tech Stack: React JS (Vite/CRA), Axios, Tailwind CSS (jika pakai).Cara Instalasi: Perintah wajib npm install untuk mengunduh semua library yang dibutuhkan.Cara Menjalankan: Perintah npm run dev atau npm start untuk memunculkan halaman web di browser.URL API Target: Catatan bahwa React akan menembak API ke http://localhost:8080.
